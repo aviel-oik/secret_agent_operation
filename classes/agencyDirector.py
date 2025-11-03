@@ -1,4 +1,4 @@
-class AgencyDirector():
+class AgencyDirector:
     single = None
 
     def __init__(self):
